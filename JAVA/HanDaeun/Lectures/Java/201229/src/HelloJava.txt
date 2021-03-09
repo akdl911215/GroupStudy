@@ -1,7 +1,0 @@
-public class HelloJava{				// 클래스 만들 때
-	public static void main(String []args){		// start 메소드 (main method)
-						// 어떤 일을 할 것인지를 나열 (문법에 맞게, 논리적으로)
-		System.out.print("Hello~~ JAVA");
-		System.out.println("Hello~~ JAVA");
-	}
-}
