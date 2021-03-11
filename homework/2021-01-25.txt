@@ -1,4 +1,0 @@
-1) 질문 노트
-   (Memory Hierarchy, Mutex(synchronized), 예제 코드 관련, I/O)
-   
-   
